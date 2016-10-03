@@ -14,7 +14,7 @@ In order to be considered for the Android position, you must complete the follow
 
 - You will need to have [Java](http://www.java.com/en/download/), [Android Studio](http://developer.android.com/sdk/installing/studio.html) or [IntelliJ](http://www.jetbrains.com/idea/download/), and the [Android SDK](http://d.android.com/sdk/index.html) installed.
 
-- Your submission should demonstrate knowledge of RxJava and common android development best practices.
+- Your submission should demonstrate knowledge of RxJava and best practices in android development.
 
 ## Task
 
