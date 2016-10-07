@@ -1,3 +1,19 @@
+
+##Apk
+[Apk Link](android-challenge/sampleNyuyu/app-release-unsigned.apk)
+
+
+
+##Screenshot
+![alt tag](https://raw.githubusercontent.com/santoshgistto/android-challenge/master/sampleNyuyu/screenshot.png)
+
+Note : RxJava not used.
+
+
+
+
+
+
 ## Android Programming Task
 
 In order to be considered for the Android position, you must complete the following steps. 
